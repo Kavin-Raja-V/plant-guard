@@ -1,2 +1,0 @@
-Before deploying, add plant_disease_model.keras and class_names.json to this folder.
-They are intentionally not fabricated or replaced with placeholder model data.
